@@ -1,0 +1,15 @@
+[driver]
+driver = "192.168.1.101"
+
+[loader]
+loader = "192.168.1.104"
+
+[My Computer]
+My Computer = "192.168.1.111"
+
+[RT PXI Target]
+RT PXI Target = "169.254.231.71"
+
+[我的电脑]
+我的电脑 = "192.168.0.103"
+
